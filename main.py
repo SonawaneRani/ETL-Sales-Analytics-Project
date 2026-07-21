@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 username = "root"
-password = quote_plus("Rani@2001")
+password = "YOUR_PASSWORD"
 host = "localhost"
 port = "3306"
 database = "ETL"
