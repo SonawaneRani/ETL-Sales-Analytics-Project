@@ -146,7 +146,8 @@ The dashboard contains:
 
 Dashboard Screenshot
 
-"C:\Users\HP\OneDrive\Desktop\DSAAI\All projects in one file\ETL Pipeline project\ETL_PROJECT\Dashboard Screenshot.png"
+<img width="1025" height="576" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/d56217ad-de81-4b7d-a14a-cdad8dc1ae22" />
+
 
 # How to Run
 
