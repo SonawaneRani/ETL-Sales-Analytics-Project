@@ -187,3 +187,6 @@ Aspiring Data Analyst
 
 GitHub:
 https://github.com/SonawaneRani
+
+Linked In:
+www.linkedin.com/in/rani-sonawane-b51587256
