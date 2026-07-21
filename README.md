@@ -25,18 +25,18 @@ The project starts with a messy e-commerce sales dataset, performs data cleaning
 # Project Structure
 
 ETL-Sales-Analytics-Project
-│
-├── Images
-│ └── Dashboard Screenshot.png
-│
-├── main.py
-├── messy_ecommerce_sales_data.csv
-├── cleaned_ecommerce_sales.csv
-├── analysis_queries.sql
-├── ETL Pipeline Dashboard.pbix
-├── ETL Pipeline_sql project.sql
-├── requirements.txt
-└── README.md
+
+── Images
+── Dashboard Screenshot.png
+
+── main.py
+── messy_ecommerce_sales_data.csv
+── cleaned_ecommerce_sales.csv
+── analysis_queries.sql
+── ETL Pipeline Dashboard.pbix
+── ETL Pipeline_sql project.sql
+── requirements.txt
+── README.md
 
 # ETL Pipeline
 
